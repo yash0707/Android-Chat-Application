@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "724736556478",
+    "firebase_url": "https://friendlychat-5dc12.firebaseio.com",
+    "project_id": "friendlychat-5dc12",
+    "storage_bucket": "friendlychat-5dc12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724736556478:android:64e58dacc0483faa",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724736556478-tu2nalbgpacmlslg5fqeda1t65qfmqh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "b7c753c55cdc851eeaf845b576c2416b2479b769"
+          }
+        },
+        {
+          "client_id": "724736556478-mg0hp7p5m6aqrkie259dahikhiss8ms1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlpKnL3ZEcPw5VHVccPRicSVIGHvj5IY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724736556478-mg0hp7p5m6aqrkie259dahikhiss8ms1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724736556478:android:fd11bf69f1fa7185",
+        "android_client_info": {
+          "package_name": "com.varshney.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724736556478-rst88tunabnoq84dkm3f4bkkhbijhvpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.varshney.friendlychat",
+            "certificate_hash": "b7c753c55cdc851eeaf845b576c2416b2479b769"
+          }
+        },
+        {
+          "client_id": "724736556478-mg0hp7p5m6aqrkie259dahikhiss8ms1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlpKnL3ZEcPw5VHVccPRicSVIGHvj5IY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724736556478-mg0hp7p5m6aqrkie259dahikhiss8ms1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
